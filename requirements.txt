@@ -1,1 +1,4 @@
+asgiref
 Django
+pytz
+aqlparse
