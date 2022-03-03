@@ -1,4 +1,6 @@
 asgiref
+backports.zoneinfo
 Django
-pytz
-aqlparse
+manage.py
+sqlparse
+tzdata
